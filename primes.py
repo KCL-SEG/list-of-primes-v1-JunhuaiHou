@@ -9,6 +9,6 @@ def primes(number_of_primes):
             if(number % index == 0):
                 break
         else:
-            list.append(n);
+            list.append(number)
 
     return list
